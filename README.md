@@ -3,7 +3,6 @@
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=0d1117&logoColor=00ff41" />
   <img src="https://img.shields.io/badge/1337%20Coding%20School-Student-00ccff?style=for-the-badge&labelColor=0d1117&logo=42&logoColor=white" />
   <img src="https://img.shields.io/badge/ENSA%20Khouribga-Cybersecurity-ff6b35?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/LOCATION-127.0.0.1-a855f7?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 <br/>
