@@ -1,8 +1,11 @@
 <!-- STATUS BADGE ROW -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=0d1117&logoColor=00ff41" />
+  <a href="https://leetcode.com/u/0x_naoki/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117" />
+  </a>
   <img src="https://img.shields.io/badge/1337%20Coding%20School-Student-00ccff?style=for-the-badge&labelColor=0d1117&logo=42&logoColor=white" />
-  <img src="https://img.shields.io/badge/ENSA%20Khouribga-Cybersecurity-ff6b35?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/ENSA%20Khouribga-DATA & AI-ff6b35?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 <br/>
