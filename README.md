@@ -1,4 +1,6 @@
-![sticker](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmYyZGtlc3p2dzZua3JpZXZleXV4enM2bzFuMXcyMmRibzNxYmRsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif)
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmYyZGtlc3p2dzZua3JpZXZleXV4enM2bzFuMXcyMmRibzNxYmRsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="100%" />
+</p>
 
 <!-- STATUS BADGE ROW -->
 <p align="center">
