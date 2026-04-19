@@ -1,3 +1,5 @@
+![sticker](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmYyZGtlc3p2dzZua3JpZXZleXV4enM2bzFuMXcyMmRibzNxYmRsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif)
+
 <!-- STATUS BADGE ROW -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=0d1117&logoColor=00ff41" />
