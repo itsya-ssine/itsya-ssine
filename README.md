@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmYyZGtlc3p2dzZua3JpZXZleXV4enM2bzFuMXcyMmRibzNxYmRsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="100%" />
-</p>
-
 <!-- STATUS BADGE ROW -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=0d1117&logoColor=00ff41" />
@@ -12,6 +8,10 @@
   <img src="https://img.shields.io/badge/ENSA%20Khouribga-DATA & AI-ff6b35?style=for-the-badge&labelColor=0d1117" />
 </p>
 
+<br/>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmYyZGtlc3p2dzZua3JpZXZleXV4enM2bzFuMXcyMmRibzNxYmRsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="100%" />
+</p>
 <br/>
 
 <!-- TERMINAL INTRO -->
