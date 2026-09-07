@@ -1,6 +1,5 @@
 <!-- STATUS BADGE ROW -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=0d1117&logoColor=00ff41" />
   <a href="https://leetcode.com/u/0x_naoki/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117" />
   </a>
@@ -61,38 +60,6 @@ $ echo $INTERESTS
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=0d1117" />
 </p>
 
-
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> `Access_Logs`
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsya-ssine&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=itsya-ssine&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakNum=00ff41&sideNums=00ccff&currStreakLabel=c9d1d9&sideLabels=c9d1d9" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsya-ssine&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" />
-  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=itsya-ssine&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ccff&point=ff6b35&hide_border=true" />
-</p>
-
-
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="25"> `Connection_Ports`
-
-<p align="center">
-  <strong>Let's establish a secure connection:</strong>
-</p>
-
-<p align="center">
-  <a href="mailto:elmajdoubiyassine5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-elmajdoubiyassine5@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-  </a>
-  <a href="https://leetcode.com/u/0x_naoki/"> 
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode" /> 
-    </a> 
-</p>
-
-
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:00ccff,100:00ff41&height=120&section=footer" />
@@ -100,8 +67,6 @@ $ echo $INTERESTS
 
 <p align="center">
   <samp>
-    <b><span style="color:#00ff41">[ SESSION TERMINATED ]</span></b><br/>
     1337 Coding School | ENSA Khouribga | 42 Network<br/>
-    <b>STATUS: READY FOR DEPLOYMENT</b><br/><br/>
   </samp>
 </p>
