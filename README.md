@@ -33,7 +33,21 @@ Engineering student in **Data & AI** at ENSA Khouribga and student at **1337 Cod
 ## Stats
 
 <p align="center">
-  <img width="50%" src="https://leetcode-stats-six.vercel.app/api?username=0x_naoki&theme=dark&font=JetBrains%20Mono&ext=activity" alt="LeetCode stats" />
+  <a href="https://leetcode.com/u/0x_naoki/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-stats-six.vercel.app/0x_naoki?theme=dark">
+      <img src="https://leetcode-stats-six.vercel.app/0x_naoki?theme=light" alt="LeetCode stats" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/0x_naoki/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-stats-six.vercel.app/0x_naoki/graph?theme=dark&width=836">
+      <img src="https://leetcode-stats-six.vercel.app/0x_naoki/graph?theme=light&width=836" alt="LeetCode submissions" />
+    </picture>
+  </a>
 </p>
 
 <!-- <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsya-ssine&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsya-ssine&layout=compact&theme=tokyonight&hide_border=true" /> </p>  -->
